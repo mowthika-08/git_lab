@@ -1,3 +1,8 @@
 This is my first git lab
+<<<<<<< HEAD
 hi
 hell
+=======
+Work in progress
+Im still here
+>>>>>>> 63036de (Content changed)
